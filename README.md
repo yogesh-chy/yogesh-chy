@@ -1,4 +1,6 @@
-# 👋 Hi, there I am Yogesh Chauadhary
+# 👋 Hi, there I am Yogesh Chaudhary
+  A Full Stack Developer
+
 # 💫 About Me:
 🔭 I’m currently working on a LMS system<br>🌱 I’m currently learning NextJs, FastAPI and more.
 
